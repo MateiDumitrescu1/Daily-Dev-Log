@@ -12,6 +12,6 @@
 
 #### 9th February 2024
 
-
+Took a rest day 🥖🤠
 
 #### 10th February 2024
