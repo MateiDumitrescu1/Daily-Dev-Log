@@ -14,4 +14,8 @@
 
 Took a rest day 🥖🤠
 
-#### 10th February 2024
+#### 14th February 2024
+
+Worked on setting up a Uni Project
+Fixed some erroes on create-react-app and started learning React
+
