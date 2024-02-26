@@ -1,21 +1,9 @@
-#### 7th February 2024
-1. Learned how to use GitHub
-2. Learned CSS from MDN Docs
-3. Learned JS from MDN Docs
-4. Made Leetcode templates for JS, Java
-5. Finished a FrontEndMentor Challenge
+# 26 Feb 2024
+Setup React Vite, Tailwind, Sass, Biome (replacement for ESLint and Prettier) project configuration
 
-#### 8th February 2024
-1. Learned from JS Docs
-2. Started coding a simple CSS-only game in Codepen
-3. Made a JS script that randomly generates circles in Codepen
+# 27 Feb 2024
+🤞🥅 learn to use React better by doing some FrontEndMentor layout
+🤞🥅 port my website over to React stack and make it work as before
 
-#### 9th February 2024
-
-Took a rest day 🥖🤠
-
-#### 14th February 2024
-
-Worked on setting up a Uni Project
-Fixed some erroes on create-react-app and started learning React
+# 27 Feb 2024
 
